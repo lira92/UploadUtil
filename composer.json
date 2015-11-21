@@ -1,0 +1,16 @@
+{
+    "name": "lyft/upload-util",
+    "description": "Classe para auxiliar no upload de arquivos no cake php 3.",
+    "require": {
+        "cakephp/cakephp": "^3.1"
+    },
+    "require-dev": {
+        "cakephp/cakephp": "^3.1"
+    },
+    "authors": [
+        {
+            "name": "Alan Lira",
+            "email": "alan@lyftweb.com.br"
+        }
+    ]
+}
