@@ -1,5 +1,5 @@
 <?php
-namespace App\Upload;
+namespace lyft\Upload;
 
 use Cake\Filesystem\File;
 use Cake\Filesystem\Folder;
